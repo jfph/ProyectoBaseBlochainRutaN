@@ -1,6 +1,6 @@
 # Propuesta individual
 
-**Nombre:** Escribe aquí tu nombre
+**Nombre:** Edwin Castaño
 
 **Usuario de GitHub:** Escribe aquí tu usuario
 

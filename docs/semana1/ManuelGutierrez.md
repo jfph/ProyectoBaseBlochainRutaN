@@ -1,6 +1,6 @@
 # Propuesta individual
 
-**Nombre:** 
+**Nombre:** Manuel Gutierrez
 
 **Usuario de GitHub:** 
 
