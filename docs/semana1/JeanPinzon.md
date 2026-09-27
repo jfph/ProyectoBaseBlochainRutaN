@@ -1,8 +1,8 @@
 # Propuesta individual
 
-**Nombre:** Escribe aquí tu nombre
+**Nombre:** Jean Francois Pinzon Hernandez
 
-**Usuario de GitHub:** Escribe aquí tu usuario
+**Usuario de GitHub:** jfph
 
 ---
 
